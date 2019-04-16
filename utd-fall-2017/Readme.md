@@ -19,7 +19,7 @@ If you have already used jupyter notebooks, then it is easy to get started:
 
 * For detailed instructions specific to using refactored look at the word document: Hackathon_at_UTD_Fall17.docx
 
-Problem 1: EDA and Prediction of Graduate Employment Rate (GER) on Grad Students data
+# Problem 1: EDA and Prediction of Graduate Employment Rate (GER) on Grad Students data
 
 Data Link: https://github.com/colaberry/data/blob/master/Grad_Students/grad-students.csv
 
@@ -37,7 +37,7 @@ Pandas library in Python is one of the most widely used libraries for data analy
 Naming Convention:
 * Name your Python file as "Team Name"_grad_students
 
-Problem 2: EDA for the Women in STEM dataset
+# Problem 2: EDA for the Women in STEM dataset
 
 Data: https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv
 ## History
